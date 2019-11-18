@@ -1,0 +1,36 @@
+h3 {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 60pt;
+    color: #C72A0D;
+}
+a {
+    text-decoration: none;
+    color: #C72A0D;
+}
+body {
+    background-image: url(bg1.jpg);
+}
+p {
+    background-color: rgba(142, 9, 9, 0.9);
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    padding: 10pt;
+
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    font-size: 20pt;
+    
+}
+.open2 {
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 50%;
+    font-size: 30pt;
+}
+.footstyle {
+    font-family: 'Shadows Into Light', cursive;
+    text-decoration: none;
+    color: black;
+}

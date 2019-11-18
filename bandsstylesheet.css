@@ -1,0 +1,36 @@
+h3 {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 40pt;
+    color: #C72A0D;
+}
+
+body {
+    background-image: url(guitar.jpg);
+}
+p {
+
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    padding: 10pt;
+    font-size: 20pt;
+
+}
+footer {
+    position: absolute;
+    bottom: 0;
+    font-size: 20pt;
+}
+a {
+    color: #C72A0D;
+    font-family: 'Shadows Into Light', cursive;
+    text-decoration: none;
+}
+.footstyle {
+    text-decoration: none;
+    color: white;
+}
+.open2 {
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 50%;
+    font-size: 30pt;
+}
