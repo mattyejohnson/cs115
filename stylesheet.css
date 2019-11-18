@@ -1,0 +1,18 @@
+.open {
+    font-family: 'Lacquer', sans-serif;
+    font-size: 60pt;
+    margin-left: 30%;
+    margin-top: 20%;
+}
+a {
+    text-decoration: none;
+    color: #C72A0D;
+}
+.open2 {
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 50%;
+    color: white;
+}
+body {
+    background-color: black;
+}
